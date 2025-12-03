@@ -1,0 +1,1 @@
+[{"name": "test.test_main.MainTest.test_difficult", "status": "passed", "message": "", "passed": true, "points": ["Perceptron"], "backtrace": []}, {"name": "test.test_main.MainTest.test_easy", "status": "passed", "message": "", "passed": true, "points": ["Perceptron"], "backtrace": []}]
